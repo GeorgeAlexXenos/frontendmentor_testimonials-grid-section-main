@@ -76,10 +76,10 @@ body {
   align-items: center;
 }
 .header img {
-  width: 45px;
+  width: 42px;
   border-radius: 50%;
   border: 2px solid rgba(255, 255, 255, 0.281);
-  margin-right: 0.8rem;
+  margin-right: 0.9rem;
 }
 .testimonial_4 img {
   border: 2px solid var(--violet);
