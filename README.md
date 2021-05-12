@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Links
 
-[live site URL here](https://your-live-site-url.com)
+[live site URL here](https://georgealexxenos.github.io/frontendmentor_testimonials-grid-section-main/)
 
 ## My process
 
